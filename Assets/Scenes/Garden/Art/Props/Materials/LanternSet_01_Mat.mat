@@ -65,14 +65,19 @@ Material:
         m_Texture: {fileID: 2800000, guid: 9cb435e566a5c464fb40bd23b0d86589, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_fd60297da7b24b4a8755c6a0bc55400a_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3b7c0de6b1243394990288cea2cc1e41, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
     - _Emissive_Intensity: 1
-    - _Metallic_Contrast: 0
-    - _Metallic_Intensity: 0
+    - _Metallic_Contrast: 1
+    - _Metallic_Intensity: 1
+    - _Noise_Scale: 100
     - _Peper_Alpha_Intensity: 1
     - _Smoothness: 1
-    - _Smoothness_Contrast: 0
+    - _Smoothness_Contrast: 1
     - _Smoothness_Intensity: 0
     m_Colors:
     - _EmissionColor: {r: 4, g: 2.944395, b: 1.9764705, a: 1}

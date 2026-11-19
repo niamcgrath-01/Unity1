@@ -29,10 +29,10 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 481893749848523368}
+  - {fileID: 3297959080060951170}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &88592816775538051
+--- !u!1001 &3048388506787511657
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -42,15 +42,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: cac77122aceb93846aa93e14646b5730, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.05942
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cac77122aceb93846aa93e14646b5730, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.11515
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cac77122aceb93846aa93e14646b5730, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.21511
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: cac77122aceb93846aa93e14646b5730, type: 3}
       propertyPath: m_LocalRotation.w
@@ -82,19 +82,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cac77122aceb93846aa93e14646b5730, type: 3}
       propertyPath: m_Name
-      value: Lantern_Paper_01_Mesh (1)
-      objectReference: {fileID: 0}
-    - target: {fileID: 4742473837712756890, guid: cac77122aceb93846aa93e14646b5730, type: 3}
-      propertyPath: m_Enabled
-      value: 1
+      value: Lantern_Paper_01_Mesh
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cac77122aceb93846aa93e14646b5730, type: 3}
---- !u!4 &481893749848523368 stripped
+--- !u!4 &3297959080060951170 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cac77122aceb93846aa93e14646b5730, type: 3}
-  m_PrefabInstance: {fileID: 88592816775538051}
+  m_PrefabInstance: {fileID: 3048388506787511657}
   m_PrefabAsset: {fileID: 0}
